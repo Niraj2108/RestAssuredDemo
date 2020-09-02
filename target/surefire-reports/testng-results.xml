@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14228" started-at="2020-09-02T15:57:14 IST" finished-at="2020-09-02T15:57:28 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14228" started-at="2020-09-02T15:57:14 IST" finished-at="2020-09-02T15:57:28 IST">
+      <class name="com.niraj.TestCountriesInformation">
+        <test-method status="PASS" signature="responseUsingCapital()[pri:0, instance:com.niraj.TestCountriesInformation@14bf9759]" name="responseUsingCapital" duration-ms="951" started-at="2020-09-02T15:57:20 IST" finished-at="2020-09-02T15:57:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseUsingCapital -->
+        <test-method status="PASS" signature="responseUsingCurrency()[pri:0, instance:com.niraj.TestCountriesInformation@14bf9759]" name="responseUsingCurrency" duration-ms="972" started-at="2020-09-02T15:57:20 IST" finished-at="2020-09-02T15:57:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseUsingCurrency -->
+        <test-method status="PASS" signature="responseUsingFullName()[pri:0, instance:com.niraj.TestCountriesInformation@14bf9759]" name="responseUsingFullName" duration-ms="981" started-at="2020-09-02T15:57:21 IST" finished-at="2020-09-02T15:57:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseUsingFullName -->
+        <test-method status="PASS" signature="responseUsingLanguage()[pri:0, instance:com.niraj.TestCountriesInformation@14bf9759]" name="responseUsingLanguage" duration-ms="1647" started-at="2020-09-02T15:57:22 IST" finished-at="2020-09-02T15:57:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseUsingLanguage -->
+        <test-method status="PASS" signature="responseUsingListOfCodes()[pri:0, instance:com.niraj.TestCountriesInformation@14bf9759]" name="responseUsingListOfCodes" duration-ms="940" started-at="2020-09-02T15:57:24 IST" finished-at="2020-09-02T15:57:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseUsingListOfCodes -->
+      </class> <!-- com.niraj.TestCountriesInformation -->
+      <class name="com.niraj.TestAllHeaders">
+        <test-method status="PASS" signature="printAllHeaders()[pri:0, instance:com.niraj.TestAllHeaders@3c0ecd4b]" name="printAllHeaders" duration-ms="1603" started-at="2020-09-02T15:57:18 IST" finished-at="2020-09-02T15:57:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printAllHeaders -->
+      </class> <!-- com.niraj.TestAllHeaders -->
+      <class name="com.niraj.TestRequestHeaders">
+        <test-method status="PASS" signature="manipulateHeaders()[pri:0, instance:com.niraj.TestRequestHeaders@598067a5]" name="manipulateHeaders" duration-ms="4008" started-at="2020-09-02T15:57:14 IST" finished-at="2020-09-02T15:57:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manipulateHeaders -->
+      </class> <!-- com.niraj.TestRequestHeaders -->
+      <class name="com.niraj.TestResponseCodes">
+        <test-method status="PASS" signature="Method1()[pri:0, instance:com.niraj.TestResponseCodes@5f341870]" name="Method1" duration-ms="929" started-at="2020-09-02T15:57:25 IST" finished-at="2020-09-02T15:57:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method1 -->
+        <test-method status="PASS" signature="Method2()[pri:0, instance:com.niraj.TestResponseCodes@5f341870]" name="Method2" duration-ms="1006" started-at="2020-09-02T15:57:26 IST" finished-at="2020-09-02T15:57:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method2 -->
+      </class> <!-- com.niraj.TestResponseCodes -->
+      <class name="com.niraj.TestCountryName">
+        <test-method status="PASS" signature="extractCountryname()[pri:0, instance:com.niraj.TestCountryName@553f17c]" name="extractCountryname" duration-ms="1130" started-at="2020-09-02T15:57:27 IST" finished-at="2020-09-02T15:57:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractCountryname -->
+      </class> <!-- com.niraj.TestCountryName -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

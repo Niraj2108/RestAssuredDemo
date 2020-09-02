@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.niraj.TestRequestHeaders"/>
+      <class name="com.niraj.TestAllHeaders"/>
+      <class name="com.niraj.TestCountriesInformation"/>
+      <class name="com.niraj.TestResponseCodes"/>
+      <class name="com.niraj.TestCountryName"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
